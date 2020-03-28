@@ -5,7 +5,7 @@ Thanks to [websocketpp](https://github.com/zaphoyd/websocketpp "C++/Boost Asio b
 
 Usage.
 -----------------
-**Note this taps to a modified repository with an updated brew formula.
+**Note this taps to a modified repository with an updated brew formula.**
 ``` bash
 brew tap davidzhen0/homebrew-websocketpp
 brew install websocketpp
